@@ -1,0 +1,28 @@
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\bin\Debug\PhoneShop.exe.config
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\bin\Debug\PhoneShop.exe
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\bin\Debug\PhoneShop.pdb
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.Form1.resources
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.Properties.Resources.resources
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.csproj.GenerateResource.Cache
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.exe
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.pdb
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmCustomer.resources
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmEmployee.resources
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmOrder.resources
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmPhone.resources
+E:\GoogleDrive\Aiew\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmInvoice.resources
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\bin\Debug\PhoneShop.exe.config
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.exe
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.pdb
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmCustomer.resources
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmEmployee.resources
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmInvoice.resources
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.Form1.resources
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmOrder.resources
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.frmPhone.resources
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.Properties.Resources.resources
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.csproj.GenerateResource.Cache
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\bin\Debug\PhoneShop.exe
+E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\bin\Debug\PhoneShop.pdb
