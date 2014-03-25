@@ -26,7 +26,7 @@ CREATE TABLE `customer` (
 `customer_Address`  varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL ,
 PRIMARY KEY (`customer_ID`)
 )
-ENGINE=InnoDB
+
 DEFAULT CHARACTER SET=utf8 COLLATE=utf8_general_ci
 
 ;
@@ -49,7 +49,7 @@ CREATE TABLE `employee` (
 `Employee_Address`  varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL ,
 PRIMARY KEY (`Employee_ID`)
 )
-ENGINE=InnoDB
+
 DEFAULT CHARACTER SET=utf8 COLLATE=utf8_general_ci
 
 ;
@@ -72,7 +72,7 @@ CREATE TABLE `invoice` (
 `Employee_ID`  varchar(13) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL ,
 PRIMARY KEY (`Invoice_ID`)
 )
-ENGINE=InnoDB
+
 DEFAULT CHARACTER SET=utf8 COLLATE=utf8_general_ci
 
 ;
@@ -96,7 +96,7 @@ CREATE TABLE `orders` (
 `Order_Date`  datetime NULL DEFAULT NULL ,
 PRIMARY KEY (`Order_ID`)
 )
-ENGINE=InnoDB
+
 DEFAULT CHARACTER SET=utf8 COLLATE=utf8_general_ci
 
 ;
@@ -121,7 +121,7 @@ CREATE TABLE `phone` (
 `Phone_Price`  double NULL DEFAULT NULL ,
 PRIMARY KEY (`Phone_ID`)
 )
-ENGINE=InnoDB
+
 DEFAULT CHARACTER SET=utf8 COLLATE=utf8_general_ci
 
 ;

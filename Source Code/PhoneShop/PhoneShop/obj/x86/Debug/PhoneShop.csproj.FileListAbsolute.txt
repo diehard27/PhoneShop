@@ -26,3 +26,6 @@ E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\Phon
 E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.csproj.GenerateResource.Cache
 E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\bin\Debug\PhoneShop.exe
 E:\GoogleDrive\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\bin\Debug\PhoneShop.pdb
+E:\Project\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\bin\Debug\PhoneShop.exe.config
+E:\Project\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.exe
+E:\Project\Phoneshop-Aiew\Source Code\PhoneShop\PhoneShop\obj\x86\Debug\PhoneShop.pdb
